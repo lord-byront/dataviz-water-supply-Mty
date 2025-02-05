@@ -13,7 +13,7 @@ Due to drought, there was also a tough water crisis in Monterrey, Nuevo León, i
 
 Given the historic water supply crisis in the state of Nuevo León, the population needs to know where to consult the points, schedules, and contacts where assistance is provided for distributing water. Therefore, this water supply dataset allows the population to visualize key water supply spots.
 
-In general, there is a challenge in the management of water in Monterrey, therefore, in this project, we will create a series of data visualizations to show the data in different ways. 
+In general, there is a challenge in the water management in Monterrey, therefore, in this project, we will create a series of data visualizations to show the data in different ways. 
 
 ## Instructions on how to use and interact with the project
 
