@@ -1,0 +1,32 @@
+<!--This is the link for the website: http://localhost:8000/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Water Supply Map - Monterrey</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        #map { height: 600px; width: 100%; }
+        #filterBox { margin: 10px; padding: 5px; }
+    </style>
+</head>
+<body>
+
+    <h2>Water Supply Points in Monterrey</h2>
+    
+    <label for="supplyFilter">Select Supply Type: </label>
+    <select id="supplyFilter">
+        <option value="all">Show All</option>
+        <option value="pipa">Water Pipe</option>
+        <option value="contenedor">Container</option>
+    </select>
+
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="map_script.js"></script>
+
+</body>
+</html>
