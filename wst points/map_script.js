@@ -20,7 +20,7 @@ const markerLayer = L.layerGroup().addTo(map);
 // Function to load and process CSV data
 async function loadCSV() {
     try {
-        const response = await fetch('Resources/cleaned_water_distribution.csv');
+        const response = await fetch('https://raw.githubusercontent.com/lord-byront/dataviz-water-supply-Mty/refs/heads/supply-type-map/wst%20points/Resources/cleaned_water_distribution.csv');
         const data = await response.text();
         const rows = data.split("\n").slice(1); // This removes header
 
@@ -89,4 +89,3 @@ document.getElementById("supplyFilter").addEventListener("change", function() {
 
 // Load CSV and add markers
 loadCSV();
-
