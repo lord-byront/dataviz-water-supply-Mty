@@ -9,8 +9,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Define colors for supply types
 const colors = {
-    'pipa': 'blue', 
-    'contenedor': 'red'
+    'pipa': 'purple', 
+    'contenedor': 'yellow'
 };
 
 // Dictionary to store markers by coordinate
@@ -89,3 +89,23 @@ document.getElementById("supplyFilter").addEventListener("change", function() {
 
 // Load CSV and add markers
 loadCSV();
+
+// Create a control for the home button
+const homeButton = L.control({ position: 'topright' });
+
+homeButton.onAdd = function () {
+    const div = L.DomUtil.create('div'); // Create a div for the button
+    const button = L.DomUtil.create('button', 'home-button'); // Create the button element
+    button.innerHTML = 'Go Home'; // Button text
+
+    // Add event listener to the button
+    button.onclick = function() {
+        window.location.href = '../index.html'; // Redirect to the main index page
+    };
+
+    div.appendChild(button); // Append the button to the div
+    return div; // Return the div containing the button
+};
+
+// Add the home button to the map
+homeButton.addTo(map);
