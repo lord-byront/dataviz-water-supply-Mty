@@ -26,6 +26,7 @@ In general, there is a challenge in the water management in Monterrey, therefore
 * [El Economista: 50% of cities will face a water availability crisis in the next 20 years: Experts ](https://www.eleconomista.com.mx/estados/50-ciudades-enfrentara-crisis-disponibilidad-agua-proximos-20-anos-expertos-20241009-729374.html)
 * [Hunting for water: a cruel drought affects Mexico](https://www.nytimes.com/es/2022/08/03/espanol/mexico-monterrey-agua-sequia.html)
 * [Northern Mexico has a historic water shortage. These maps explain why.](https://www.washingtonpost.com/weather/2022/08/09/drought-mexico-water-monterrey/)
+* [¿Cuánto mejoró el nivel de las presas en Nuevo León con las lluvias?] (https://mvsnoticias.com/nuevo-leon/2024/6/20/cuanto-mejoro-el-nivel-de-las-presas-en-nuevo-leon-con-las-lluvias-644725.html)
 
 ## Data sources
 
