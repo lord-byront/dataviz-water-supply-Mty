@@ -19,7 +19,7 @@ In general, there is a challenge in the water management in Monterrey, therefore
 We work with jupyter, HTML, Json, geojson.io, SQL
 n this work you can see the information of the index, the codes with the HTML, interactive maps on the schedules of water supply by neighborhoods, as well as the water supply points either by pipe or other means, we can see a map with graphs where it mentions the locations and water levels of the main dams in Monterrey, as well as the places in which the water is supplied to the main water supply points, as well as the places where the water is supplied.
 we have an interactive page where you can see an overview of some of the main maps: 
-https://lord-byront.github.io/dataviz-water-supply-Mty/
+[Monterrey Supplied Points and Dams](https://lord-byront.github.io/dataviz-water-supply-Mty/)
 
 ## Efforts for ethical considerations made in the project
 It was important to analyze the information avoiding biases and looking for ways to raise awareness through government pages considering that the information reflects situations in which we are involved as citizens of Monterrey.
@@ -29,7 +29,7 @@ It was important to analyze the information avoiding biases and looking for ways
 * [El Economista: 50% of cities will face a water availability crisis in the next 20 years: Experts ](https://www.eleconomista.com.mx/estados/50-ciudades-enfrentara-crisis-disponibilidad-agua-proximos-20-anos-expertos-20241009-729374.html)
 * [Hunting for water: a cruel drought affects Mexico](https://www.nytimes.com/es/2022/08/03/espanol/mexico-monterrey-agua-sequia.html)
 * [Northern Mexico has a historic water shortage. These maps explain why.](https://www.washingtonpost.com/weather/2022/08/09/drought-mexico-water-monterrey/)
-* [¿Cuánto mejoró el nivel de las presas en Nuevo León con las lluvias?](https://mvsnoticias.com/nuevo-leon/2024/6/20/cuanto-mejoro-el-nivel-de-las-presas-en-nuevo-leon-con-las-lluvias-644725.html)
+* [¿How much water did the dams recovered after the rains?](https://mvsnoticias.com/nuevo-leon/2024/6/20/cuanto-mejoro-el-nivel-de-las-presas-en-nuevo-leon-con-las-lluvias-644725.html)
 
 ## Data sources
 
