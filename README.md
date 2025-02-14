@@ -16,10 +16,13 @@ Given the historic water supply crisis in the state of Nuevo León, the populati
 In general, there is a challenge in the water management in Monterrey, therefore, in this project, we will create a series of data visualizations to show the data in different ways. 
 
 ## Instructions on how to use and interact with the project
-
+We work with jupyter, HTML, Json, geojson.io, SQL
+n this work you can see the information of the index, the codes with the HTML, interactive maps on the schedules of water supply by neighborhoods, as well as the water supply points either by pipe or other means, we can see a map with graphs where it mentions the locations and water levels of the main dams in Monterrey, as well as the places in which the water is supplied to the main water supply points, as well as the places where the water is supplied.
+we have an interactive page where you can see an overview of some of the main maps: 
+https://lord-byront.github.io/dataviz-water-supply-Mty/
 
 ## Efforts for ethical considerations made in the project
-
+It was important to analyze the information avoiding biases and looking for ways to raise awareness through government pages considering that the information reflects situations in which we are involved as citizens of Monterrey.
 
 ## References
 
