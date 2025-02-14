@@ -21,7 +21,7 @@ n this work you can see the information of the index, the codes with the HTML, i
 we have an interactive page where you can see an overview of some of the main maps: 
 [Monterrey Supplied Points and Dams](https://lord-byront.github.io/dataviz-water-supply-Mty/)
 
-We can also check the dams which are used to supply water to Monterrey and if they supply it to a specific location by using [Geojson web app](https://geojson.io/#map=7.35/25.641/-99.787/108.8). The code to display the map would be the [geojson file]() inside the "dams" folder.
+We can also check the dams which are used to supply water to Monterrey and if they supply it to a specific location by using [Geojson web app](https://geojson.io/#map=7.35/25.641/-99.787/108.8). The code to display the map would be the [geojson file](https://github.com/lord-byront/dataviz-water-supply-Mty/blob/main/dams/map%20dams.geojson) inside the "dams" folder.
 
 ## Efforts for ethical considerations made in the project
 It was important to analyze the information avoiding biases and looking for ways to raise awareness through government pages considering that the information reflects situations in which we are involved as citizens of Monterrey.
